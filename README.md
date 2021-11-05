@@ -1,2 +1,2 @@
 # certificates
-My certificates from Cisco and Stepic
+My certificates from Cisco and Stepik
